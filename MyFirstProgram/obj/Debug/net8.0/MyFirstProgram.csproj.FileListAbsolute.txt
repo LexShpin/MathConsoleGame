@@ -1,0 +1,14 @@
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/bin/Debug/net8.0/MyFirstProgram
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.deps.json
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.runtimeconfig.json
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.dll
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/bin/Debug/net8.0/MyFirstProgram.pdb
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.AssemblyInfo.cs
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.dll
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/obj/Debug/net8.0/refint/MyFirstProgram.dll
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.pdb
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/obj/Debug/net8.0/MyFirstProgram.genruntimeconfig.cache
+/Users/alexandershpin/Desktop/Projects/C#/MyFirstProgram/MyFirstProgram/obj/Debug/net8.0/ref/MyFirstProgram.dll
